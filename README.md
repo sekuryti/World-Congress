@@ -1,5 +1,5 @@
 # World-Congress Decentralized Autonomous Organization (WCDAO)
-
+![World-Congress](WORLD CONGRESS_basic-file.png)
 ## Name
 WCDAO
 
