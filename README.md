@@ -1,17 +1,17 @@
 # World-Congress Decentralized Autonomous Organization (WCDAO)
 
-Name your DAO
+## Name
 WCDAO
 
-Describe the DAO’s goals as explicitly as possible
+## Describe the DAO’s goals as explicitly as possible
 Global congress for all world citizens who believe in peace, community, compassion, empathy, justice, freedom and absolute liberty.
 
-Top 3 expected principles of this organization
+## Top 3 expected principles of this organization
 * Educate
 * Motivate
 * Create
 
-Which decisions/systems can the DAO control?
+## Which decisions/systems can the DAO control?
 * Budget Allocation 
 * Hiring
 * Projects
