@@ -118,7 +118,24 @@ Global congress for all world citizens who believe in peace, community, compassi
 A society built on peace, community, compassion, empathy, justice, freedom, and absolute liberty. In addition to a society that protects the people, and the planet in addition to the realization of everyone’s true potential.
 
 ## What is needed to achieve your goals with this DAO?
-Try to focus on the things you want to happen, not any specific tool or framework.
+
+- A robust and secure blockchain platform: A decentralized platform, such as Ethereum, would be necessary to support the creation and operation of the DAO.
+
+- A well-designed and tested smart contract: The smart contract would need to be thoroughly tested and audited to ensure its security and functionality.
+
+- A community of stakeholders: A diverse community of stakeholders, including representatives of the various groups and individuals affected by the issues the DAO aims to address, would be necessary to provide input, support, and participation in the decision-making process of the DAO.
+
+- Clear and transparent governance and decision-making processes: The DAO's governance and decision-making processes would need to be clearly defined, transparent, and accessible to all stakeholders.
+
+- Adequate funding and resources: The DAO would need adequate funding and resources to support its operations and initiatives.
+
+- Strong leadership and coordination: Strong leadership and coordination would be necessary to ensure the DAO's objectives are met in an effective and efficient manner.
+
+- Continuous monitoring and evaluation: The DAO's performance and impact would need to be continuously monitored and evaluated to ensure it is on track to meet its goals and adapt to changing conditions.
+
+- A good communication and outreach strategy: A good communication and outreach strategy would be necessary to inform the public about the DAO's activities and to involve the public in the decision-making process.
+
+- Compliance with laws and regulations: The DAO would need to comply with all relevant laws and regulations.
 
 ## Community
 What is the project’s backstory?
