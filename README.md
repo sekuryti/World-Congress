@@ -45,97 +45,57 @@ Global congress for all world citizens who believe in peace, community, compassi
 ### Democratizing Liberty
 
 - Start by creating a task force or commission to study and recommend ways to increase political participation and representation for all citizens, regardless of their socio-economic status.
-
 - Implement campaign finance reform measures to reduce the influence of wealthy donors and special interests on political campaigns and elections.
-
 - Promote voter education and access, including measures such as automatic voter registration, same-day voter registration, and expanded early voting and mail-in voting.
-
 - Increase the transparency and accountability of government officials and institutions by implementing strong ethics laws, public campaign finance, and open records laws.
-
 - Create an independent redistricting commission to prevent gerrymandering and ensure fair and representative electoral districts.
-
 - Increase access to education and job training programs to empower citizens to participate fully in the economy and in politics.
-
 - Promote policies that address economic and social inequality, such as progressive taxation, universal healthcare, and affordable housing.
-
 - Encourage the participation of underrepresented groups in politics, such as women, people of color, and low-income individuals, through targeted outreach and support programs.
-
 - Strengthen the protection of civil liberties and individual rights by protecting freedom of speech, press, religion, and assembly.
-
 - Finally, continue to work towards democratizing liberty through ongoing dialogue, education, and political participation and representation.
-
 - It is important to note that this plan is not a short-term solution, it would take a long-term commitment and a lot of effort to democratize liberty for all citizens. Also, it is important to remember that each country and region have their own set of issues and challenges and will require a tailored approach.
 
 ### Bring peace amongst all religions
 
 - Start by creating a dialogue between religious leaders from different faiths to discuss common ground and areas of potential cooperation.
-
 - Encourage interfaith education and understanding by promoting programs that teach about the different beliefs, practices, and customs of various religions.
-
 - Support grassroots organizations and community groups that work to build bridges between different religious communities.
-
 - Address the root causes of religious conflict, such as economic inequality, political marginalization, and social injustice.
-
 - Encourage religious leaders to speak out against violence and extremism in all forms, and to promote peaceful coexistence and tolerance.
-
 - Establish international organizations and institutions that promote religious understanding and cooperation, such as the United Nations Alliance of Civilizations.
-
 - Create a platform for global interfaith dialogue and cooperation, such as a religious peace summit.
-
 - Work with media organizations to promote positive and accurate portrayals of different religions in the media.
-
 - Encourage religious organizations to participate in humanitarian efforts and disaster relief, as a way of building trust and cooperation between different faith communities.
-
 - Finally, continue to work towards peace and understanding between all major religions, through ongoing dialogue, education, and cooperation.
-
 - It is important to note that this plan is not a short term solution, it would take a long-term commitment and a lot of effort to build trust and understanding between different religious communities. Also, it is important to remember that each country and region have their own set of issues and challenges and will require a tailored approach.
 
 ## Enable and support global economies to prosper
 
 - Start by creating a task force or commission to study and recommend ways to promote economic growth and development in developing economies.
-
 - Encourage foreign investment and trade by creating a stable and predictable business environment, including measures such as reducing bureaucracy and corruption.
-
 - Invest in infrastructure, such as transportation, energy, and telecommunications, to improve connectivity and increase productivity.
-
 - Promote education and job training programs to develop a skilled workforce and increase competitiveness in the global economy.
-
 - Encourage entrepreneurship and innovation by providing support and resources for small and medium-sized businesses.
-
 - Address issues of inequality and poverty by implementing progressive social welfare policies and targeted support programs for marginalized communities.
-
 - Promote environmental sustainability and green growth by investing in renewable energy and implementing regulations to reduce pollution and protect natural resources.
-
 - Encourage the development of domestic industries and markets by implementing protectionist trade policies, such as tariffs and import quotas.
-
 - Promote financial inclusion by expanding access to banking and financial services for underbanked populations.
-
 - Finally, continue to work towards global economic prosperity through ongoing dialogue, cooperation, and the implementation of evidence-based policies.
-
 - It is important to note that this plan is not a short-term solution, it would take a long-term commitment and a lot of effort to promote economic growth and development in developing economies. Also, it is important to remember that each country and region have their own set of issues and challenges and will require a tailored approach.
 
 ## True Justice for All
 
 - Start by creating a task force or commission to study and recommend ways to reform the criminal justice system and ensure true justice for all individuals.
-
 - Implement police reform measures to increase transparency and accountability, including measures such as body cameras, community oversight boards, and anti-discrimination policies.
-
 - Promote alternatives to incarceration, such as diversion programs, community service, and restorative justice programs, to reduce mass incarceration and address the root causes of crime.
-
 - Address racial and socioeconomic disparities within the criminal justice system by implementing policies to eliminate bias and discrimination.
-
 - Increase access to legal representation for indigent defendants to ensure that all individuals have the opportunity to receive a fair trial.
-
 - Implement sentencing reform measures to reduce the severity of punishment for non-violent offenses and ensure that sentences are proportionate to the crime committed.
-
 - Address issues of poverty and social inequality by implementing policies to reduce poverty, increase access to education and job training programs, and provide housing assistance.
-
 - Increase transparency and accountability of the criminal justice system by implementing open data policies and creating an independent oversight body.
-
 - Increase funding for public defender's office and legal aid programs.
-
 - Finally, continue to work towards true justice through ongoing dialogue, education, and the implementation of evidence-based policies and reforms.
-
 - It is important to note that this plan is not a short-term solution, it would take a long-term commitment and a lot of effort to achieve true justice. Also, it is important to remember that each country and region have their own set of issues and challenges and will require a tailored approach.
 
 ## How would the world change if this DAO is successful?
@@ -158,21 +118,13 @@ A society built on peace, community, compassion, empathy, justice, freedom, and 
 ## What is needed to achieve your goals with this DAO?
 
 - A robust and secure blockchain platform: A decentralized platform, such as Ethereum, would be necessary to support the creation and operation of the DAO.
-
 - A well-designed and tested smart contract: The smart contract would need to be thoroughly tested and audited to ensure its security and functionality.
-
 - A community of stakeholders: A diverse community of stakeholders, including representatives of the various groups and individuals affected by the issues the DAO aims to address, would be necessary to provide input, support, and participation in the decision-making process of the DAO.
-
 - Clear and transparent governance and decision-making processes: The DAO's governance and decision-making processes would need to be clearly defined, transparent, and accessible to all stakeholders.
-
 - Adequate funding and resources: The DAO would need adequate funding and resources to support its operations and initiatives.
-
 - Strong leadership and coordination: Strong leadership and coordination would be necessary to ensure the DAO's objectives are met in an effective and efficient manner.
-
 - Continuous monitoring and evaluation: The DAO's performance and impact would need to be continuously monitored and evaluated to ensure it is on track to meet its goals and adapt to changing conditions.
-
 - A good communication and outreach strategy: A good communication and outreach strategy would be necessary to inform the public about the DAO's activities and to involve the public in the decision-making process.
-
 - Compliance with laws and regulations: The DAO would need to comply with all relevant laws and regulations.
 
 ## Community
