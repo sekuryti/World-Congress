@@ -23,9 +23,23 @@ Global congress for all world citizens who believe in peace, community, compassi
 - Provide opportunities for collaboration and community building, which can foster a sense of shared purpose and creativity.
 
 ## Which decisions/systems can the DAO control?
-* Budget Allocation 
-* Hiring
-* Projects
+### Budget Allocation:
+- Create a transparent budgeting process that allows members to propose and vote on budget allocation decisions.
+- Establish clear guidelines and criteria for budget allocation, such as alignment with the DAO's mission and expected return on investment.
+- Establish a system for tracking and reporting on the use of allocated funds.
+
+### Hiring:
+
+- Create a transparent process for recruiting and selecting candidates, such as posting job listings and conducting interviews.
+- Allow members to vote on hiring decisions, with the majority vote determining the outcome.
+- Establish clear guidelines and criteria for hiring, such as alignment with the DAO's mission and skillset required.
+
+### Projects:
+- Allow members to propose and vote on projects that align with the DAO's mission.
+- Establish clear guidelines and criteria for project selection, such as alignment with the DAO's mission and expected return on investment.
+- Create a system for tracking and reporting on the progress and outcomes of projects.
+- Encourage collaboration and community building among project members to foster a sense of shared purpose and creativity.
+- Continuously evaluate the project progress and make necessary adjustments based on the outcome.
 
 ## What problem do you seek to solve by deploying as a DAO?
 ### Democratizing Liberty
