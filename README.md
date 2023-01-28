@@ -246,63 +246,40 @@ Maximum total token holdings? Maximum burn rate of funds? What are users not all
 What are the decisions the DAO takes on a daily basis and are not considered critical?
 
 ## Critical proposals
-What are the critical decisions that the DAO can take that need a high degree of consensus?
+
+- Budget allocation: Deciding how to allocate funds among various projects and initiatives is a critical decision that requires a high degree of consensus among members.
+- Hiring and personnel decisions: Deciding who to hire, how to compensate employees, and how to manage personnel issues, such as promotions and performance evaluations, require a high degree of consensus among members.
+- Project management and development: Deciding which projects to undertake, how to manage and develop them, and how to measure their success, requires a high degree of consensus among members.
+- Governance structure: Deciding on the governance structure of the DAO, including the roles and responsibilities of different members and the decision-making processes, requires a high degree of consensus among members.
+- Risk management: Identifying and managing potential risks, such as legal, financial, or reputational risks, requires a high degree of consensus among members.
+- Legal compliance: Identifying and complying with relevant laws and regulations, requires a high degree of consensus among members.
+- Changing the organization's mission, vision, or core values: Changing the fundamental basis of the organization requires a high degree of consensus among members.
+- Dissolving the organization: Deciding to dissolve the organization and how to distribute assets, also requires a high degree of consensus among members.
 
 ## Legal strategy
-How does the DAO negotiate it’s legitimacy with the legacy legal system?
 
-## Doubts and concerns on the parameters
-Questions, comments, and concerns go here.
+- Establishing clear and transparent governance structures and decision-making processes, which can help to demonstrate that the DAO is operating in a legitimate and responsible manner.
+- Following existing laws and regulations, such as labor laws, tax laws, and consumer protection laws, in order to minimize legal risk and to demonstrate that the DAO is operating in a responsible and compliant manner.
+- Building relationships with government officials and regulatory bodies, and communicating with them in a clear and transparent manner, to help establish the DAO's legitimacy and to work together to find solutions that will allow the DAO to operate within the existing legal framework.
+- Establishing a legal entity to represent the DAO, such as a non-profit organization, a cooperative, or a company, and registering it with the relevant authorities. This can help to provide a legal framework for the DAO's operations and to demonstrate its legitimacy to the outside world.
+- Building a track record of success and positive impact, which can help to establish the DAO's reputation and demonstrate its value to the community and society as a whole.
+- Creating a code of conduct, a legal agreement and other legal document that all members have to agree to. This documents can state the rights and responsibilities of the members, the rules of the organization, and the legal framework that the organization operates in.
+
 
 ## Stakeholder Analysis
-From the users’ point of view, what is the DAO’s primary objective?
-Should be one sentence or less.
 
-## What connects your different user personas?
-They might share goals, ambitions, ideology, or just the same office. What is it?
+The DAO's primary objective, from the users' point of view, is to empower individuals to come together and work towards a shared vision of a more just and sustainable society.
 
 ## How do users coordinate strategy, planning and direction?
-Where/how does the community coordinate so that the DAO can operate in a peer to peer way?
 
-## How can users leverage participation for individual benefit?
-What do people get out of the DAO? Connecting their needs/desires to the collective process is important to keep your users engaged.
+Users can coordinate strategy, planning and direction by:
 
-## Describe your user personas:
-Think about their age, lifestyle, and goals.
-
-Persona 1
-
-Persona 2
-
-Persona 3
-
-## Actors
-DAO functions
-What do you want your DAO to do?
-
-Manage assets
-
-Create community votes
-
-Curate content
-
-Create a marketplace
-
-etc..
-
-## Ideal proposal types (brainstorm)
-These types will help determine who gets tokens and how.
-
-Budget / funding:
-
-fundraising
-
-one off proposals
-
-monthly budgeting
-
-etc...
-
-If you plan on managing or allocating capital who are the funders? Why would they fund your DAO?
-Is it top down (grants)? Bottom up (Moloch)? Do stakeholders pay subscription (membership dues)? Etc..
-
+- Participating in regular meetings and forums where they can share ideas and collaborate on developing a shared vision and mission for the DAO.
+- Using communication tools and platforms, such as chat groups, forums, and social media, to stay informed about the latest developments and to share information and resources.
+- Voting on proposals and decisions that are put forward by other members of the DAO, and contributing to the decision-making process through open dialogue and consensus-building.
+- Forming working groups and committees that focus on specific areas of the DAO's work, such as budget allocation, project management, or community outreach. 
+- Using project management tools and platforms to track progress, share resources, and collaborate on tasks and initiatives.
+- Participating in training and education programs to develop the skills and knowledge needed to contribute effectively to the DAO's work.
+- Collaborating with other DAOs, organizations and individuals to share best practices and to work together to achieve common goals.
+- Continuously evaluating and adapting the DAO's strategy, planning and direction to ensure that it is aligned with the shared vision and mission and that it effectively addresses the needs of the users and society.
+- Encourage and facilitate the participation of members in decision-making, through regular polls, surveys, and other forms of feedback.
