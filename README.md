@@ -8,9 +8,19 @@ WCDAO
 Global congress for all world citizens who believe in peace, community, compassion, empathy, justice, freedom and absolute liberty.
 
 ## Top 3 expected principles of this organization
-* Educate
-* Motivate
-* Create
+### Educate:
+-Provide information, instruction, and training through classes, workshops, lectures, and educational materials.
+-Encourage independent learning and critical thinking by providing resources and opportunities for self-directed study.
+
+### Motivate:
+-Provide clear goals and expectations, and offer feedback and recognition for progress and achievement.
+-Create a positive and supportive environment that fosters growth and development.
+-Use incentives and rewards to encourage desired behaviors and attitudes.
+
+### Create:
+-Provide access to tools, resources, and materials needed for creative expression and experimentation.
+-Encourage exploration and experimentation, and allow for failure as a means of learning and growth.
+-Provide opportunities for collaboration and community building, which can foster a sense of shared purpose and creativity.
 
 ## Which decisions/systems can the DAO control?
 * Budget Allocation 
