@@ -139,7 +139,21 @@ Global congress for all world citizens who believe in peace, community, compassi
 - It is important to note that this plan is not a short-term solution, it would take a long-term commitment and a lot of effort to achieve true justice. Also, it is important to remember that each country and region have their own set of issues and challenges and will require a tailored approach.
 
 ## How would the world change if this DAO is successful?
+
 A society built on peace, community, compassion, empathy, justice, freedom, and absolute liberty. In addition to a society that protects the people, and the planet in addition to the realization of everyone’s true potential.
+
+## How do we ensure success
+
+- Develop a shared vision and mission for the society, based on the values of peace, community, compassion, empathy, justice, freedom, and absolute liberty.
+- Create a governance structure that prioritizes the participation and empowerment of all members of the society, and encourages decision-making through consensus-building and open dialogue.
+- Establish systems and structures for education, training, and personal development that help individuals realize their full potential and contribute to the collective good.
+- Encourage and support the formation of strong communities and networks that promote social cohesion, mutual support, and collective action.
+- Foster a culture of empathy and compassion, and actively work to address and eliminate discrimination and inequality in all forms.
+- Develop economic, political and social systems that are based on the principles of freedom, justice, and equality, and that support the well-being and sustainability of all members of the society and the planet.
+- Encourage and support the development of sustainable technologies and practices that protect the environment and reduce our impact on the planet.
+- Continuously evaluate and adapt the society's systems and structures to ensure that they continue to align with the shared vision and mission, and that they effectively support the well-being and development of all members of the society.
+- Encourage and support the participation of members of the society in local and global initiatives that promote peace, community, compassion, empathy, justice, freedom, and absolute liberty.
+- Promote a culture of open communication, active listening, and continuous improvement, to ensure that the society remains responsive and adaptable to the changing needs of its members and the world.
 
 ## What is needed to achieve your goals with this DAO?
 
@@ -162,8 +176,20 @@ A society built on peace, community, compassion, empathy, justice, freedom, and 
 - Compliance with laws and regulations: The DAO would need to comply with all relevant laws and regulations.
 
 ## Community
-What is the project’s backstory?
-Why are you here? Why are you building a DAO? Why should people care? People love stories!
+
+### What is the project’s backstory?
+
+The project’s backstory is rooted in a deep concern for the state of the world and a desire to build a better future for all. The founders of this project were disillusioned by the increasing inequality, social division, and environmental degradation that they saw around them. They knew that something needed to be done, but they also knew that traditional approaches to addressing these issues were not working.
+
+That's why, they came up with the idea of creating a decentralized autonomous organization (DAO) built on the principles of peace, community, compassion, empathy, justice, freedom, and absolute liberty. By creating a decentralized and democratic governance structure, they believed that they could empower individuals to come together and work towards a shared vision of a more just and sustainable society.
+
+They also believed that by using the latest technologies and practices, they could create a system that was more transparent, efficient, and adaptable than traditional centralized models of governance.
+
+The founders of this project knew that building such a society is not an easy task, that's why they decided to gather a group of like-minded individuals to work together to build this society. They believe that by working together and pooling their resources and expertise, they can achieve more than they ever could alone.
+
+They also believe that this project is important because it offers a new and innovative approach to addressing some of the most pressing problems facing our world today. They believe that by building a society based on peace, community, compassion, empathy, justice, freedom, and absolute liberty, they can create a better future for all. And that's why they believe that people should care about this project and join them in this journey.
+
+They believe that this project is a story of hope, a story of people coming together to build a better future for all, a story of a society that protects the people, and the planet in addition to the realization of everyone’s true potential.
 
 ## Communication platforms
 * Discord
