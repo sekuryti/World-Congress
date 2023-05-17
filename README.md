@@ -8,6 +8,7 @@ WCDAO
 Global congress for all world citizens who believe in peace, community, compassion, empathy, justice, freedom and absolute liberty.
 
 ## Top 3 expected principles of this organization
+
 ### Educate:
 - Provide information, instruction, and training through classes, workshops, lectures, and educational materials.
 - Encourage independent learning and critical thinking by providing resources and opportunities for self-directed study.
@@ -35,6 +36,7 @@ Global congress for all world citizens who believe in peace, community, compassi
 - Establish clear guidelines and criteria for hiring, such as alignment with the DAO's mission and skillset required.
 
 ### Projects:
+
 - Allow members to propose and vote on projects that align with the DAO's mission.
 - Establish clear guidelines and criteria for project selection, such as alignment with the DAO's mission and expected return on investment.
 - Create a system for tracking and reporting on the progress and outcomes of projects.
@@ -42,6 +44,7 @@ Global congress for all world citizens who believe in peace, community, compassi
 - Continuously evaluate the project progress and make necessary adjustments based on the outcome.
 
 ## What problem do you seek to solve by deploying as a DAO?
+
 ### Democratizing Liberty
 
 - Start by creating a task force or commission to study and recommend ways to increase political participation and representation for all citizens, regardless of their socio-economic status.
