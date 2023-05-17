@@ -35,7 +35,7 @@ Global congress for all world citizens who believe in peace, community, compassi
 - Allow members to vote on hiring decisions, with the majority vote determining the outcome.
 - Establish clear guidelines and criteria for hiring, such as alignment with the DAO's mission and skillset required.
 
-### Projects:
+### Projects:
 
 - Allow members to propose and vote on projects that align with the DAO's mission.
 - Establish clear guidelines and criteria for project selection, such as alignment with the DAO's mission and expected return on investment.
